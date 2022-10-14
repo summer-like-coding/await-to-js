@@ -20,3 +20,4 @@ export function to<T, U = Error> (
 }
 
 export default to;
+
